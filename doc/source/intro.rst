@@ -2,7 +2,7 @@ Introduction
 ============
 
 BASE OAI-PMH Validity Checker (OVAL) is a tool for
-checking document servers' compatibilty to the 
+checking document servers' compatibility to the
 harvester and indexer of Bielefeld Academic Search
 Engine (BASE). This involves mainly the validation of
 compliance with the Open Archives Protocol for Metadata

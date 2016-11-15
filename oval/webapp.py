@@ -3,7 +3,7 @@
 import sys
 import os
 
-# Add local directoty to import path
+# Add local directory to import path
 this_dir, this_filename = os.path.split(__file__)
 sys.path.insert(0, os.path.abspath(this_dir))
 

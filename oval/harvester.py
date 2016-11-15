@@ -249,7 +249,7 @@ def configure_record_iterator(base_url, protocol_version, HTTPmethod, timeout=No
            :param metadataPrefix: The OAI-PMH metadataPrefix attribute.
            :param _from: Optional date offset.
            :param until: Optional date limit.
-           :param deleted: Flag specifiying whether deleted records should be
+           :param deleted: Flag specifying whether deleted records should be
                            included
         """
         def __init__(self, verb, metadataPrefix, _from=None, until=None,
